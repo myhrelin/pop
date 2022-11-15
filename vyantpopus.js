@@ -7,5 +7,5 @@
 	{
 	    $(this).removeClass('xepo_ads');
 
-	    window.open('https://7fva8algp45k.com/ek9wqs01a?key=f8d368ac41b829d33e4a81c9d389438b', '_blank');
+	    window.open('https://www.highperformancecpmgate.com/qha84qbhe?key=a6dcc10b70c0ab353cb96c0233978ce8', '_blank');
 	});
